@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  
+  margin-right:0px;
+  margin-left:0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+p{
+  margin-right:0px;
+  margin-left:0px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.i{
+
+  position:absolute;
+  z-index: 2;
+  width: 3cm;
+  top:270px;
+  margin-top:0px;
+  margin-left:0px;
+  }
